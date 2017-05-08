@@ -7,15 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F5234C191EB8ECFF007B2A08 /* BaseAnimator.m in Sources */ = {isa = PBXBuildFile; fileRef = F5234C181EB8ECFF007B2A08 /* BaseAnimator.m */; };
+		F5234C1C1EB8ED61007B2A08 /* MiniToLargeViewAnimator.m in Sources */ = {isa = PBXBuildFile; fileRef = F5234C1B1EB8ED61007B2A08 /* MiniToLargeViewAnimator.m */; };
+		F5234C1F1EB8F220007B2A08 /* MiniToLargeViewInteractive.m in Sources */ = {isa = PBXBuildFile; fileRef = F5234C1E1EB8F220007B2A08 /* MiniToLargeViewInteractive.m */; };
+		F5234C2E1EBCE7FB007B2A08 /* MSPresentationController.m in Sources */ = {isa = PBXBuildFile; fileRef = F5234C2D1EBCE7FB007B2A08 /* MSPresentationController.m */; };
+		F53379BB1EB63FD80044CD57 /* MSCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F53379BA1EB63FD80044CD57 /* MSCollectionViewCell.m */; };
+		F53379BF1EB65D540044CD57 /* MSItems.m in Sources */ = {isa = PBXBuildFile; fileRef = F53379BE1EB65D540044CD57 /* MSItems.m */; };
+		F53379C31EB855EF0044CD57 /* MSPersonaMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F53379C21EB855EF0044CD57 /* MSPersonaMainViewController.m */; };
 		F57117611EAEA5450080B9C6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F57117601EAEA5450080B9C6 /* main.m */; };
 		F57117641EAEA5450080B9C6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F57117631EAEA5450080B9C6 /* AppDelegate.m */; };
 		F57117671EAEA5450080B9C6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F57117661EAEA5450080B9C6 /* ViewController.m */; };
 		F571176A1EAEA5450080B9C6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F57117681EAEA5450080B9C6 /* Main.storyboard */; };
 		F571176C1EAEA5450080B9C6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F571176B1EAEA5450080B9C6 /* Assets.xcassets */; };
 		F571176F1EAEA5450080B9C6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F571176D1EAEA5450080B9C6 /* LaunchScreen.storyboard */; };
+		F571177B1EAFE2F70080B9C6 /* HMSegmentedControl.m in Sources */ = {isa = PBXBuildFile; fileRef = F571177A1EAFE2F70080B9C6 /* HMSegmentedControl.m */; };
+		F5863A891EC076C700144A8F /* DummyView.m in Sources */ = {isa = PBXBuildFile; fileRef = F5863A881EC076C700144A8F /* DummyView.m */; };
+		F5FC724E1EBF9C7C00AFE8F7 /* MSPersonsCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F5FC724D1EBF9C7C00AFE8F7 /* MSPersonsCollectionViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F5234C171EB8ECFF007B2A08 /* BaseAnimator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseAnimator.h; sourceTree = "<group>"; };
+		F5234C181EB8ECFF007B2A08 /* BaseAnimator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseAnimator.m; sourceTree = "<group>"; };
+		F5234C1A1EB8ED61007B2A08 /* MiniToLargeViewAnimator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MiniToLargeViewAnimator.h; sourceTree = "<group>"; };
+		F5234C1B1EB8ED61007B2A08 /* MiniToLargeViewAnimator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MiniToLargeViewAnimator.m; sourceTree = "<group>"; };
+		F5234C1D1EB8F220007B2A08 /* MiniToLargeViewInteractive.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MiniToLargeViewInteractive.h; sourceTree = "<group>"; };
+		F5234C1E1EB8F220007B2A08 /* MiniToLargeViewInteractive.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MiniToLargeViewInteractive.m; sourceTree = "<group>"; };
+		F5234C2C1EBCE7FB007B2A08 /* MSPresentationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSPresentationController.h; sourceTree = "<group>"; };
+		F5234C2D1EBCE7FB007B2A08 /* MSPresentationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSPresentationController.m; sourceTree = "<group>"; };
+		F53379B91EB63FD80044CD57 /* MSCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSCollectionViewCell.h; sourceTree = "<group>"; };
+		F53379BA1EB63FD80044CD57 /* MSCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSCollectionViewCell.m; sourceTree = "<group>"; };
+		F53379BD1EB65D540044CD57 /* MSItems.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSItems.h; sourceTree = "<group>"; };
+		F53379BE1EB65D540044CD57 /* MSItems.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSItems.m; sourceTree = "<group>"; };
+		F53379C11EB855EF0044CD57 /* MSPersonaMainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSPersonaMainViewController.h; sourceTree = "<group>"; };
+		F53379C21EB855EF0044CD57 /* MSPersonaMainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSPersonaMainViewController.m; sourceTree = "<group>"; };
 		F571175C1EAEA5450080B9C6 /* MustApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MustApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F57117601EAEA5450080B9C6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		F57117621EAEA5450080B9C6 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -26,6 +50,12 @@
 		F571176B1EAEA5450080B9C6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F571176E1EAEA5450080B9C6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F57117701EAEA5450080B9C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F57117791EAFE2F70080B9C6 /* HMSegmentedControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HMSegmentedControl.h; path = Framework/HMSegmentedControl.h; sourceTree = "<group>"; };
+		F571177A1EAFE2F70080B9C6 /* HMSegmentedControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HMSegmentedControl.m; path = Framework/HMSegmentedControl.m; sourceTree = "<group>"; };
+		F5863A871EC076C700144A8F /* DummyView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DummyView.h; sourceTree = "<group>"; };
+		F5863A881EC076C700144A8F /* DummyView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DummyView.m; sourceTree = "<group>"; };
+		F5FC724C1EBF9C7C00AFE8F7 /* MSPersonsCollectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MSPersonsCollectionViewController.h; sourceTree = "<group>"; };
+		F5FC724D1EBF9C7C00AFE8F7 /* MSPersonsCollectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MSPersonsCollectionViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +69,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F53379C01EB65D5E0044CD57 /* Items */ = {
+			isa = PBXGroup;
+			children = (
+				F53379BD1EB65D540044CD57 /* MSItems.h */,
+				F53379BE1EB65D540044CD57 /* MSItems.m */,
+				F53379B91EB63FD80044CD57 /* MSCollectionViewCell.h */,
+				F53379BA1EB63FD80044CD57 /* MSCollectionViewCell.m */,
+			);
+			name = Items;
+			sourceTree = "<group>";
+		};
 		F57117531EAEA5450080B9C6 = {
 			isa = PBXGroup;
 			children = (
@@ -58,6 +99,17 @@
 		F571175E1EAEA5450080B9C6 /* MustApp */ = {
 			isa = PBXGroup;
 			children = (
+				F5863A861EBFA17200144A8F /* Animator */,
+				F5FC724C1EBF9C7C00AFE8F7 /* MSPersonsCollectionViewController.h */,
+				F5FC724D1EBF9C7C00AFE8F7 /* MSPersonsCollectionViewController.m */,
+				F5234C2C1EBCE7FB007B2A08 /* MSPresentationController.h */,
+				F5234C2D1EBCE7FB007B2A08 /* MSPresentationController.m */,
+				F5234C1D1EB8F220007B2A08 /* MiniToLargeViewInteractive.h */,
+				F5234C1E1EB8F220007B2A08 /* MiniToLargeViewInteractive.m */,
+				F53379C11EB855EF0044CD57 /* MSPersonaMainViewController.h */,
+				F53379C21EB855EF0044CD57 /* MSPersonaMainViewController.m */,
+				F53379C01EB65D5E0044CD57 /* Items */,
+				F57117781EAFE2C30080B9C6 /* Framework */,
 				F57117621EAEA5450080B9C6 /* AppDelegate.h */,
 				F57117631EAEA5450080B9C6 /* AppDelegate.m */,
 				F57117651EAEA5450080B9C6 /* ViewController.h */,
@@ -77,6 +129,28 @@
 				F57117601EAEA5450080B9C6 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		F57117781EAFE2C30080B9C6 /* Framework */ = {
+			isa = PBXGroup;
+			children = (
+				F57117791EAFE2F70080B9C6 /* HMSegmentedControl.h */,
+				F571177A1EAFE2F70080B9C6 /* HMSegmentedControl.m */,
+			);
+			name = Framework;
+			sourceTree = "<group>";
+		};
+		F5863A861EBFA17200144A8F /* Animator */ = {
+			isa = PBXGroup;
+			children = (
+				F5234C1A1EB8ED61007B2A08 /* MiniToLargeViewAnimator.h */,
+				F5234C1B1EB8ED61007B2A08 /* MiniToLargeViewAnimator.m */,
+				F5234C171EB8ECFF007B2A08 /* BaseAnimator.h */,
+				F5234C181EB8ECFF007B2A08 /* BaseAnimator.m */,
+				F5863A871EC076C700144A8F /* DummyView.h */,
+				F5863A881EC076C700144A8F /* DummyView.m */,
+			);
+			name = Animator;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -151,9 +225,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F53379C31EB855EF0044CD57 /* MSPersonaMainViewController.m in Sources */,
+				F5234C1F1EB8F220007B2A08 /* MiniToLargeViewInteractive.m in Sources */,
+				F5234C2E1EBCE7FB007B2A08 /* MSPresentationController.m in Sources */,
+				F5FC724E1EBF9C7C00AFE8F7 /* MSPersonsCollectionViewController.m in Sources */,
+				F53379BB1EB63FD80044CD57 /* MSCollectionViewCell.m in Sources */,
 				F57117671EAEA5450080B9C6 /* ViewController.m in Sources */,
+				F571177B1EAFE2F70080B9C6 /* HMSegmentedControl.m in Sources */,
+				F5863A891EC076C700144A8F /* DummyView.m in Sources */,
 				F57117641EAEA5450080B9C6 /* AppDelegate.m in Sources */,
+				F53379BF1EB65D540044CD57 /* MSItems.m in Sources */,
 				F57117611EAEA5450080B9C6 /* main.m in Sources */,
+				F5234C191EB8ECFF007B2A08 /* BaseAnimator.m in Sources */,
+				F5234C1C1EB8ED61007B2A08 /* MiniToLargeViewAnimator.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -312,6 +396,7 @@
 				F57117751EAEA5450080B9C6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
